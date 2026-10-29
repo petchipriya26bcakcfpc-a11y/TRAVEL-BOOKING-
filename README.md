@@ -28,3 +28,32 @@
 - Secure payment options.
 - Booking confirmation and history.
 - User reviews and ratings.
+
+### Screens
+1.Home
+2.search
+3.details
+4.price
+5.confirmation
+
+### Screenshots
+1.Home
+<img width="150" height="300" alt="Home (8)" src="https://github.com/user-attachments/assets/7f065268-c4ca-4a77-b963-3be20bf4bd19" />
+
+2.search
+<img width="150" height="300" alt="Search (5)" src="https://github.com/user-attachments/assets/3e511b3f-7970-48cf-8d49-774606f22481" />
+
+3.details
+<img width="150" height="300" alt="Details (3)" src="https://github.com/user-attachments/assets/3e74ac56-b7f6-416b-988e-b881acc2d1ac" />
+
+4.price
+<img width="150" height="300" alt="price (1)" src="https://github.com/user-attachments/assets/76425878-a2a7-4e0b-813f-ec6f76a15e72" />
+
+5.confirmation
+<img width="150" height="300" alt="Confirmation (5)" src="https://github.com/user-attachments/assets/e0de8ef4-0d41-402e-bf5d-28741a33b7ab" />
+
+Developed By
+B.Petchi Priya
+
+License
+This project is created for educational purpose only
